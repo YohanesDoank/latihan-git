@@ -1,0 +1,20 @@
+body{
+    margin:auto;
+    background:black;
+}
+p {
+
+position:relative;	
+color: white;
+    text-align: center;
+font-size: 100px;
+}
+img{
+left: 42%;
+position:relative;	
+    border-radius: 105px;
+    background: #ffffff;
+    padding: 20px; 
+    width: 180px;
+    height: 180px; 
+}
