@@ -1,4 +1,8 @@
-.judul{
-color:black;
-size: 3 em;
+p {
+color: white;
+    text-align: center;
+font-size: 100px;
+}
+body{
+background:black;
 }
